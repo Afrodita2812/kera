@@ -1,0 +1,14 @@
+C:\Mabel\Challenge-project-foreach-if-array-CSharp-main\Challengeproject\starter\bin\Debug\net8.0\Starter.exe
+C:\Mabel\Challenge-project-foreach-if-array-CSharp-main\Challengeproject\starter\bin\Debug\net8.0\Starter.deps.json
+C:\Mabel\Challenge-project-foreach-if-array-CSharp-main\Challengeproject\starter\bin\Debug\net8.0\Starter.runtimeconfig.json
+C:\Mabel\Challenge-project-foreach-if-array-CSharp-main\Challengeproject\starter\bin\Debug\net8.0\Starter.dll
+C:\Mabel\Challenge-project-foreach-if-array-CSharp-main\Challengeproject\starter\bin\Debug\net8.0\Starter.pdb
+C:\Mabel\Challenge-project-foreach-if-array-CSharp-main\Challengeproject\starter\obj\Debug\net8.0\Starter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Mabel\Challenge-project-foreach-if-array-CSharp-main\Challengeproject\starter\obj\Debug\net8.0\Starter.AssemblyInfoInputs.cache
+C:\Mabel\Challenge-project-foreach-if-array-CSharp-main\Challengeproject\starter\obj\Debug\net8.0\Starter.AssemblyInfo.cs
+C:\Mabel\Challenge-project-foreach-if-array-CSharp-main\Challengeproject\starter\obj\Debug\net8.0\Starter.csproj.CoreCompileInputs.cache
+C:\Mabel\Challenge-project-foreach-if-array-CSharp-main\Challengeproject\starter\obj\Debug\net8.0\Starter.dll
+C:\Mabel\Challenge-project-foreach-if-array-CSharp-main\Challengeproject\starter\obj\Debug\net8.0\refint\Starter.dll
+C:\Mabel\Challenge-project-foreach-if-array-CSharp-main\Challengeproject\starter\obj\Debug\net8.0\Starter.pdb
+C:\Mabel\Challenge-project-foreach-if-array-CSharp-main\Challengeproject\starter\obj\Debug\net8.0\Starter.genruntimeconfig.cache
+C:\Mabel\Challenge-project-foreach-if-array-CSharp-main\Challengeproject\starter\obj\Debug\net8.0\ref\Starter.dll
